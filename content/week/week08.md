@@ -15,7 +15,7 @@ How JavaScript works with the Browser. Creating truly interactive website
 ### Pre-Class Readings
 
 - [Functions](https://eloquentjavascript.net/13_browser.html)
-- [Hgher Order Functions (Optional)](https://eloquentjavascript.net/14_dom.html)
+- [Higher Order Functions (Optional)](https://eloquentjavascript.net/14_dom.html)
 
 ## Week 8.2
 
