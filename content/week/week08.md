@@ -31,6 +31,6 @@ Using JavaScript to create truly interactive websites.
 
 ## Due this week!
 
-<!-- [Lab 7 - Github Classroom Assignment]()
+[Lab 7 - Github Classroom Assignment](https://classroom.github.com/a/6mZneOt9)
 
-[Lab 7 Instructions](/lab/7/0) -->
+[Lab 7 Instructions](/lab/7/0)
