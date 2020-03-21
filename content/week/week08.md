@@ -10,12 +10,12 @@ week: "08"
 
 How JavaScript works with the Browser. Creating truly interactive website
 
-[Slides]()
+[Slides - JS and the Browser](https://docs.google.com/presentation/d/17XJUTCE8EQ-XRLmpX4B21LqaHX076vp86WBZ7xgIGck/edit?usp=sharing)
 
 ### Pre-Class Readings
 
-- [Functions](https://eloquentjavascript.net/13_browser.html)
-- [Higher Order Functions (Optional)](https://eloquentjavascript.net/14_dom.html)
+- [JavaScript and the Browser](https://eloquentjavascript.net/13_browser.html)
+- [The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
 ## Week 8.2
 
@@ -27,7 +27,7 @@ Using JavaScript to create truly interactive websites.
 
 - [Javascript Events](https://eloquentjavascript.net/15_event.html)
 
-[Slides]()
+[Slides - JS Events](https://docs.google.com/presentation/d/1rn2r_EFLT6DIF094pPeaIr_ZQT98mLl0-xGV2ZA5JUY/edit?usp=sharing)
 
 ## Due this week!
 

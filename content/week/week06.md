@@ -10,7 +10,7 @@ week: "06"
 
 Introduction to coding in JavaScript. We will be covering basic types and variables.
 
-[Slides]()
+[Slides - Intro to JavaScript](https://docs.google.com/presentation/d/1Js_q-xWWbVhewLw3n_qBEdqSDUu1DaD0Lfj6NVvFR7E/edit?usp=sharing)
 
 ### Pre-Class Readings
 
@@ -28,7 +28,7 @@ Making decisions with code using **if** statements. Repeating exectution and loo
 
 - [Ch 2: Program Stucture (Control Flow On)](https://eloquentjavascript.net/02_program_structure.html#h_rDxYNPd65Z)
 
-[Slides]()
+[Slides - JavaScript Control Flow](https://docs.google.com/presentation/d/1CzJgCnLN71huWm2R6VT2vei_9JgReffeiNjXgmmMg1w/edit?usp=sharing)
 
 
 ## Due this week!

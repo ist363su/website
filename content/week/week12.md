@@ -1,22 +1,10 @@
 ---
 title: Build Tools / ReactJS I
-excerpt: Send, Receiving, Validating User Data
+excerpt: ReactJS I
 week: "12"
 ---
 
 ## Week 12.1
-
-### Build Tools
-
-Drawing in the Browser
-
-[Slides]()
-
-### Pre-Class Readings
-
-- [Drawing on Canvas](https://eloquentjavascript.net/17_canvas.html)
-
-## Week 12.2
 
 ### ReactJS I
 
@@ -26,7 +14,21 @@ Crawling with ReactJS, simplifying advanced web applications.
 
 - [ReactJS (Take a look to see how it works)](https://reactjs.org/)
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1uUHkvbVU9-zRvEV7PO9FJjoC2-cdV9mG0Qf_rRoqnLA/edit?usp=sharing)
+
+
+## Week 12.2
+
+### Build Tools
+
+Build Tools and Modern Web Development
+
+[Slides](https://docs.google.com/presentation/d/13OTsC3L5sHZtTgVQki1lPq-Xc0wzIqLSnK5vqocpCTY/edit?usp=sharing)
+
+### Pre-Class Readings
+
+- [Drawing on Canvas](https://eloquentjavascript.net/17_canvas.html)
+
 
 ## Due this week!
 

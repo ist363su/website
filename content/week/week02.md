@@ -1,6 +1,6 @@
 ---
 title: HTML / CSS & CSS Selectors / Accessability
-excerpt: Most of this should be review from IST256
+excerpt: Most of this should be review from IST263
 week: "02"
 ---
 

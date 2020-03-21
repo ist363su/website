@@ -1,6 +1,6 @@
 ---
 id: 7-1
-title: Lab 6
+title: Lab 7
 lab: 7
 step: 1
 start: false

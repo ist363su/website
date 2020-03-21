@@ -38,7 +38,7 @@
                   {
                     week: "01",
                     tuesday: "Course Introduction",
-                    thursday: "256 Review",
+                    thursday: "263 Review",
                     readings: [{
                         text: "html",
                         link: ""
@@ -77,8 +77,8 @@
                   },
                   {
                     week: "05",
-                    tuesday: "How the web works",
-                    thursday: "HTML Forms",
+                    tuesday: "Sending Data with HTML",
+                    thursday: "HTML Forms and Inputs",
                     readings: [{
                         text: "html",
                         link: ""
@@ -147,8 +147,8 @@
                   },
                     {
                     week: "12",
-                    tuesday: "Build Tools",
-                    thursday: "ReactJS",
+                    tuesday: "ReactJS I",
+                    thursday: "Build Tools",
                     readings: [{
                         text: "html",
                         link: ""
