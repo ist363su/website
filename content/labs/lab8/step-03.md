@@ -1,21 +1,21 @@
 ---
-id: 8-2
+id: 8-3
 title: Lab 8
 lab: 8
-step: 2
+step: 3
 start: false
 last: false
 ---
 
-# Create the basic html for the application
+# Style the application
 
-Create the basic html for the form
+Style the application using the provided bootstrap library. 
 
-1. Create an add Form
-2. Create the area for the list.
+[Bootstrap](https://getbootstrap.com/)
 
-You should end up with something like the image below. Don't worry about styling, it's easier to start with functionality then apply styles later.
+Look in the documentation to see how to configure the form, list, and buttons. You really shouldn't need to write a lot of custom css.
 
-![HTML Started](/lab8/html-start.png)
+## The completed application
+![The completed application](/lab8/SampleAppFinished.png)
 
 
