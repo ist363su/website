@@ -31,6 +31,6 @@ Running JavaScript outside of the browser.
 
 ## Due this week!
 <!-- 
-[Lab 9 - Github Classroom Assignment]()
+[Lab 9 - Github Classroom Assignment](https://classroom.github.com/a/c4z12uq7)
 
 [Lab 9 Instructions](/lab/9/0) -->
