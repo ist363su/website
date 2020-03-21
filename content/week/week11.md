@@ -1,6 +1,6 @@
 ---
 title: Canvas / NodeJS
-excerpt: Send, Receiving, Validating User Data
+excerpt: A fun tangent with canvas, NodeJS
 week: "11"
 ---
 
@@ -10,7 +10,7 @@ week: "11"
 
 Drawing in the Browser
 
-[Slides]()
+[Slides - Canvas](https://docs.google.com/presentation/d/1QDyDq4xf13LUfQxsCKzMwgPc8CTJ-8jRFuBaTsmTPII/edit?usp=sharing)
 
 ### Pre-Class Readings
 
@@ -20,14 +20,14 @@ Drawing in the Browser
 
 ### NodeJS
 
-Running JavaScript outside of the browser.
+Running JavaScript outside of the browser, build tools and more fun!.
 
 ### Pre-Class Readings
 
 - [Node.JS](https://eloquentjavascript.net/20_node.html)
 - [NodeJS Website](https://nodejs.org/en/)
 
-[Slides]()
+[Slides - NodeJS](https://docs.google.com/presentation/d/1EEzuwxQa13AyIkxvwJNXMjw1e5jhRCIRZV0qVrDen3c/edit?usp=sharing)
 
 ## Due this week!
 <!-- 
