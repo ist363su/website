@@ -31,7 +31,7 @@ Using data on the internet.
 - [Axios Docs on Github](https://github.com/axios/axios)
 - [HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
 
-[Slides](https://docs.google.com/presentation/d/1pKstXxuJldJPo2tU9-wlQJow0h69-RugEcoJXZ2joPk/edit?usp=sharing)
+[Slides - APIs / AJAX / Axios](https://docs.google.com/presentation/d/1pKstXxuJldJPo2tU9-wlQJow0h69-RugEcoJXZ2joPk/edit?usp=sharing)
 
 ### Videos
 
