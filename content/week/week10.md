@@ -14,7 +14,8 @@ Form validation, keeping the user in check. Processing and using data from forms
 
 ### Videos
 
-Coming soon...
+[Lecture Video](https://web.microsoftstream.com/video/568cd9a2-c427-4aeb-8472-df1406a2dfe4)
+[Simple Profile Application using FormData and localStorage](https://youtu.be/94yxX0J3Fmc)
 
 ### Pre-Class Readings
 
