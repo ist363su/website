@@ -1,12 +1,21 @@
 ---
 id: 8-4
-title: Lab 8 
+title: Lab 8
 lab: 8
 step: 4
 start: false
-last: true
+last: false
 ---
 
-## Submit your code!
+# Style the application
 
-Submit your code to github, double check github and make sure everything is pushed and correct.
+Style the application using the provided bootstrap library. 
+
+[Bootstrap](https://getbootstrap.com/)
+
+Look in the documentation to see how to configure the form, list, and buttons. You really shouldn't need to write a lot of custom css.
+
+## The completed application
+![The completed application](/lab8/SampleAppFinished.png)
+
+

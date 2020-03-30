@@ -1,23 +1,27 @@
 ---
-id: 9-1
+id: 9-0
 title: Lab 9
 lab: 9
 step: 0
+start: true
+last: false
 ---
 
-# Rubric
+# MySketchbook V1
 
-Git and Github
-- (2pts) Accept the assignment from Github Classroom and **clone** it to your computer
-- (6pts) Make at least 3 commits to GitHub (1 for each page created)
+Build a simple sketchbook application that saves data to firebase. Users should be able to login and create a new canvas, create a piece of artwork on the canvas and save it to firebase. The application will need a list view of all of their canvases.
 
-index.html
-- (3pts) Created a header with the proper markup and styled correctly	3
-- (3pts) Created a main content area and sidebar that are properly styled and positioned	3
+Canvas is fun, but it can get really complicated as your you try to add features to your application. We will be using the Konva library to make it a little easier. 
 
-blog.html
-- (4pts) Created three blog posts and are styled correctly
-- (1pt) Image in one of the blog posts is positioned and spaced correctly	1
+[KonvaJS](https://konvajs.org/)
 
-Links
-- (1pt) Navigation links work between the two pages (successful multi-page website)
+## Rubric
+
+- (4pts) User should be able to login or create a new account
+- (2pts) User should be redirected to a their canvas
+- (2pts) User should be able to save their canvas to firebase by clicking save button
+- (4pts) If User logs in again they should see their last canvas
+- (4pts) User should be able to choose a different brush color
+- (4pts) Clear button should clear the canvas
+
+
