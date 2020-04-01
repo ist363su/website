@@ -27,7 +27,11 @@ Build Tools and Modern Web Development
 
 ### Pre-Class Readings
 
-- [Drawing on Canvas](https://eloquentjavascript.net/17_canvas.html)
+These are the tools that are used today. 
+
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [Sass/Scss](https://sass-lang.com/)
 
 
 ## Due this week!

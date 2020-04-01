@@ -25,7 +25,7 @@ Drawing in the Browser
 
 ### NodeJS
 
-Running JavaScript outside of the browser, build tools and more fun!.
+Running JavaScript outside of the browser and a peek into Sass.
 
 ### Pre-Class Readings
 
@@ -37,16 +37,16 @@ Running JavaScript outside of the browser, build tools and more fun!.
 
 ### Videos
 
-- [NodeJS Lecture]()
-- [How to Theme Bootstrap]()
+- [NodeJS Lecture](https://web.microsoftstream.com/video/93e4a238-9927-429a-9644-4b0b1bc29d48)
+- [How to Theme Bootstrap](https://web.microsoftstream.com/video/78e4ca28-af98-4978-b037-30df8f35c6cb)
 
 ## Due this week!
 
 #### Help Videos
-[Step 1 - Get Firebase Setup](https://web.microsoftstream.com/video/5a870cc1-ffc4-4241-aaa2-d2210b76421a)
-[Step 2 - Setting up Authentication]()
-[Step 3 - Setting up Konva]()
-[Step 4 - Saving and Loading from Firebase]()
+- [Step 1 - Get Firebase Setup](https://web.microsoftstream.com/video/5a870cc1-ffc4-4241-aaa2-d2210b76421a)
+- [Step 2 - Setting up Authentication](https://web.microsoftstream.com/video/072f6e17-b90e-4f7d-83ba-746e7e3fef93)
+- [Step 3 - Setting up Konva and Checking for a user](https://web.microsoftstream.com/video/43fd7ccc-edf4-40be-800b-37dd82953807)
+- [Step 4 - Saving and Loading from Firebase](https://web.microsoftstream.com/video/1d36834e-476c-4252-bc78-65ee3e05a928)
  
 [Lab 9 - Github Classroom Assignment](https://classroom.github.com/a/c4z12uq7)
 
