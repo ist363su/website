@@ -36,8 +36,8 @@ These are the tools that are used today.
 
 ## Due this week!
 
-**V2 Upgrade Plans**
+**V2 Upgrade Plans Due On Sunday! [Requirements](/project/)**
 
-<!-- [Lab 10 - Github Classroom Assignment]()
+[Lab 10 - Github Classroom Assignment](https://classroom.github.com/a/yXCmaMeW)
 
-[Lab 10 Instructions](/lab/10/0) -->
+[Lab 10 Instructions](/lab/10/0)
