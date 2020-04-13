@@ -143,7 +143,7 @@
                         text: "html",
                         link: ""
                     }],
-                    due: "Lab 9 / Project Update"
+                    due: "Lab 9"
                   },
                     {
                     week: "12",
@@ -153,12 +153,12 @@
                         text: "html",
                         link: ""
                     }],
-                    due: "Lab 10"
+                    due: "Lab 10 / Project Update"
                   },
                    {
                     week: "13",
-                    tuesday: "ReactJS",
-                    thursday: "ReactJS",
+                    tuesday: "ReactJS II",
+                    thursday: "ReactJS III",
                     readings: [{
                         text: "html",
                         link: ""

@@ -1,23 +1,25 @@
 ---
-id: 10-1
+id: 10-0
 title: Lab 10
 lab: 10
 step: 0
+start: true
+last: false
 ---
 
-# Rubric
+# Lab 10 - DoggoTube
 
-Git and Github
-- (2pts) Accept the assignment from Github Classroom and **clone** it to your computer
-- (6pts) Make at least 3 commits to GitHub (1 for each page created)
+In this lab you will be using the YouTube API to build a page for aggregation of Dog Videos. We are going to keep this pretty simple to the feel for ReactJS.
 
-index.html
-- (3pts) Created a header with the proper markup and styled correctly	3
-- (3pts) Created a main content area and sidebar that are properly styled and positioned	3
+## Rubric
 
-blog.html
-- (4pts) Created three blog posts and are styled correctly
-- (1pt) Image in one of the blog posts is positioned and spaced correctly	1
+- (4pts) Dachshund **videos** should work
+- (4pts) Corgi **playlists** should work
+- (4pts) Husky **playlists** should work
+- (6pts) Search Component should work
+- (2pts) Styles should match the mockup
 
-Links
-- (1pt) Navigation links work between the two pages (successful multi-page website)
+
+## - Completed App
+
+![DoggoTube](/lab10/Completed-DoggoTube.png)

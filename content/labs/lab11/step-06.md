@@ -1,0 +1,14 @@
+---
+id: 11-6
+title: Lab 11
+lab: 11
+step: 6
+start: false
+last: true
+---
+
+## Submit your code!
+
+Submit your code to github, double check github and make sure everything is pushed and correct.
+
+
