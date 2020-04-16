@@ -7,7 +7,11 @@ start: false
 last: false
 ---
 
-# Create the login / homepage
+# Setup Routing
 
-The first thing we will need is our login page, To create the login page you will create a new ReactComponent in a folder called **pages**
+The first we will need to do is setup our app for routing, To create the pages you will creating a new React Components for each page in a folder called **pages**. This will contain the pages (just react components) needed for our application. We will be using React Dom Router to accomplish this.
+
+The completed app router code is shown below:
+
+![App with router](/lab11/appjswithrouter.png)
 

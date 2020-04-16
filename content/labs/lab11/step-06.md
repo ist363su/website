@@ -4,11 +4,13 @@ title: Lab 11
 lab: 11
 step: 6
 start: false
-last: true
+last: false
 ---
 
-## Submit your code!
+## Finish Styling the application
 
-Submit your code to github, double check github and make sure everything is pushed and correct.
+Complete the application so it looks like the mockups provided
+
+
 
 

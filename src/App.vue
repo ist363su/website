@@ -41,6 +41,14 @@
             <v-list-item-title>Course Project</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item link to="/project-checklist/">
+          <v-list-item-action>
+            <v-icon>mdi-briefcase-clock</v-icon>
+          </v-list-item-action>
+          <v-list-item-content>
+            <v-list-item-title>Final Project Checklist</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
          <v-list-item link @click="navigate('https://drive.google.com/file/d/1JfY5PbIzHPyhQ3n6Nxn-0AKJmqFReKwV/view?usp=sharing')">
           <v-list-item-action>
             <v-icon>mdi-bookmark</v-icon>
@@ -78,7 +86,7 @@
       color="primary"
       app
     >
-      <span class="white--text">Nick Lyga - Syracuse University &copy; 2019</span>
+      <span class="white--text">Nick Lyga - Syracuse University &copy; 2020</span>
     </v-footer>
   </v-app>
 </div>

@@ -23,7 +23,6 @@ cd my-photo-ideas
 
 ```
 npm install react-router-dom --save
-npm install axios --save
 npm install firebase --save
 npm install bootstrap --save
 npm install autoprefixer --save
@@ -31,7 +30,7 @@ npm install feather-icons --save
 
 OR
 
-npm install react-router-dom firebase axios bootstrap autoprefixer feather-icons --save
+npm install react-router-dom firebase bootstrap autoprefixer feather-icons --save
 ```
 
 - Cleanup Startup Directory, Remove the getting started code that gets created with React

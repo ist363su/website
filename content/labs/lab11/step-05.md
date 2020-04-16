@@ -7,10 +7,14 @@ start: false
 last: false
 ---
 
-## Create the Inspirations Pages
+## Create the Upload page
 
-Show a list of your favorite inspirations from unsplash. There should be a remove option to remove images from your favorites.
+We will create a page that allows us to upload multiple files to Firebase The page should look like the one below.
+
+![Upload Page](/lab11/uploadpage.png)
 
 
+The upload page code is shown below:
 
+![Upload Page Code](/lab11/uploadpagecode.png)
 

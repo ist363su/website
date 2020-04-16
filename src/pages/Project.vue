@@ -1,7 +1,7 @@
 <template>
   <Layout>
-    <h1>Class Project (380pts Total)</h1>
-    <p>The class project is a full semester project. You will begin by dreaming up an idea, and
+    <h1>Course Project (380pts Total)</h1>
+    <p>The course project is a full semester project. You will begin by dreaming up an idea, and
       developing a project proposal. Once the proposal has been accepted you will then wireframe
       out your idea. This will give you an idea of how you project will look and let you work 
       through the flow of your application before you start coding. After the wireframes have
